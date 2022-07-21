@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mypostapp-project/static/css/main.861e6cb7.css",
+    "main.js": "/mypostapp-project/static/js/main.66ccaa1e.js",
+    "static/js/787.cef26e57.chunk.js": "/mypostapp-project/static/js/787.cef26e57.chunk.js",
+    "index.html": "/mypostapp-project/index.html",
+    "main.861e6cb7.css.map": "/mypostapp-project/static/css/main.861e6cb7.css.map",
+    "main.66ccaa1e.js.map": "/mypostapp-project/static/js/main.66ccaa1e.js.map",
+    "787.cef26e57.chunk.js.map": "/mypostapp-project/static/js/787.cef26e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.861e6cb7.css",
+    "static/js/main.66ccaa1e.js"
+  ]
+}
